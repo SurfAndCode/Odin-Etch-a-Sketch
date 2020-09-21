@@ -64,7 +64,6 @@ button {
     display: inline-flex;
     width: 900px;
     height: 600px;
-    /* padding: 40px 40px 40px 40px; */
     border: 100px solid red;
     border-radius: 10%;
 }
