@@ -1,0 +1,71 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-image: url(surf.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5em; 
+  }
+
+label {
+    font-size: 1.5em; 
+}
+
+#color {
+    width: 20px;
+    height: 20px;
+}
+
+.title {
+    font-size: 3em;;
+}
+
+.settings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+button {
+    font-family: 'Indie Flower', cursive;
+
+  }
+
+.square {
+    border: 1px solid black;
+}
+
+.square:hover {
+    background-color: black;
+}
+
+.container {
+    display: inline-flex;
+    width: 900px;
+    height: 600px;
+    /* padding: 40px 40px 40px 40px; */
+    border: 100px solid red;
+    border-radius: 10%;
+}
+
